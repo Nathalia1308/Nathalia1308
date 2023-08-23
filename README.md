@@ -2,7 +2,7 @@ Olá eu sou a Nathalia Barros 👋
 
 <div align="center">
   <a href="https://github.com/Nathalia1308">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathalia1308&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathalia1308&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia1308&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
